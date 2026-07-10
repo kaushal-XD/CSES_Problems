@@ -6,6 +6,7 @@
 
 | Problem | Category | Solutions |
 | :--- | :--- | :--- |
+| Coin Combinations II | Dynamic Programming | [ C++ ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Dynamic_Programming/Coin_Combinations_II/Coin_Combinations_II.cpp) |
 | Coin Combinations I | Dynamic Programming | [ C++ ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Dynamic_Programming/Coin_Combinations_I/Coin_Combinations_I.cpp) |
 | Minimizing Coins | Dynamic Programming | [ Python ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Dynamic_Programming/Minimizing_Coins/Minimizing_Coins.py) |
 | Dice Combinations | Dynamic Programming | [ Python ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Dynamic_Programming/Dice_Combinations/Dice_Combinations.py) |
