@@ -6,6 +6,7 @@
 
 | Problem | Category | Solutions |
 | :--- | :--- | :--- |
+| Removing Digits | Dynamic Programming | [ C++ ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Dynamic_Programming/Removing_Digits/Removing_Digits.cpp) |
 | Coin Combinations II | Dynamic Programming | [ C++ ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Dynamic_Programming/Coin_Combinations_II/Coin_Combinations_II.cpp) |
 | Coin Combinations I | Dynamic Programming | [ C++ ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Dynamic_Programming/Coin_Combinations_I/Coin_Combinations_I.cpp) |
 | Minimizing Coins | Dynamic Programming | [ Python ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Dynamic_Programming/Minimizing_Coins/Minimizing_Coins.py) |
