@@ -6,6 +6,7 @@
 
 | Problem | Category | Solutions |
 | :--- | :--- | :--- |
+| Minimal Grid Path | Dynamic Programming | [ C++ ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Dynamic_Programming/Minimal_Grid_Path/Minimal_Grid_Path.cpp) |
 | Rectangle Cutting | Dynamic Programming | [ C++ ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Dynamic_Programming/Rectangle_Cutting/Rectangle_Cutting.cpp) |
 | Longest Common Subsequence | Dynamic Programming | [ C++ ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Dynamic_Programming/Longest_Common_Subsequence/Longest_Common_Subsequence.cpp) |
 | Edit Distance | Dynamic Programming | [ C++ ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Dynamic_Programming/Edit_Distance/Edit_Distance.cpp) |
