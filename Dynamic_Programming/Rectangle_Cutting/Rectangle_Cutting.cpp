@@ -2,7 +2,7 @@
  * Problem Name: Rectangle_Cutting
  * Language: C++
  * Category: Dynamic_Programming
- * Date: 2026-07-10
+ * Date: 2026-07-11
  */
 
 #include <bits/stdc++.h>
@@ -20,7 +20,7 @@ int main(){
  
             else {
                 for(int v = 1 ; v <= i-1 ; v++){
-                    dp[i][j] = min(dp[i][j],dp[j-v][j] + dp[v][j] + 1);
+                    dp[i][j] = min(dp[i][j], dp[i-v][j] + dp[v][j] + 1);
                 }
                 for(int h = 1 ; h <= j-1 ; h++){
                     dp[i][j] = min(dp[i][j],dp[i][h] + dp[i][j-h] + 1);
