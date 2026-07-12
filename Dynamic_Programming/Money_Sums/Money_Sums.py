@@ -16,6 +16,6 @@ for a in ar :
     for i in range(t,a-1,-1):
         if dp[i-a]:
             dp[i] = True
-o = [i for i in range(i,t+1) if dp[i] ]
+o = [i for i in range(1,t+1) if dp[i] ]
 print(len(o))
 print(*o)
