@@ -6,6 +6,7 @@
 
 | Problem | Category | Solutions |
 | :--- | :--- | :--- |
+| Two Sets II | Dynamic Programming | [ C++ ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Dynamic_Programming/Two_Sets_II/Two_Sets_II.cpp) |
 | Removal Game | Dynamic Programming | [ C++ ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Dynamic_Programming/Removal_Game/Removal_Game.cpp) |
 | Money Sums | Dynamic Programming | [ C++ ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Dynamic_Programming/Money_Sums/Money_Sums.cpp) • [ Python ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Dynamic_Programming/Money_Sums/Money_Sums.py) |
 | Minimal Grid Path | Dynamic Programming | [ C++ ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Dynamic_Programming/Minimal_Grid_Path/Minimal_Grid_Path.cpp) |
