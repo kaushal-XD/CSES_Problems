@@ -2,7 +2,7 @@
  * Problem Name: Removal_Game
  * Language: C++
  * Category: Dynamic_Programming
- * Date: 2026-07-14
+ * Date: 2026-07-25
  */
 
 #include<bits/stdc++.h>
