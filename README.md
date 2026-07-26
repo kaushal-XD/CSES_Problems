@@ -6,6 +6,7 @@
 
 | Problem | Category | Solutions |
 | :--- | :--- | :--- |
+| Labyrinth | Graph Algorithms | [ C++ ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Graph_Algorithms/Labyrinth/Labyrinth.cpp) |
 | Building Roads | Graph Algorithms | [ C++ ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Graph_Algorithms/Building_Roads/Building_Roads.cpp) |
 | Counting Rooms | Graph Algorithms | [ C++ ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Graph_Algorithms/Counting_Rooms/Counting_Rooms.cpp) • [ Python ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Graph_Algorithms/Counting_Rooms/Counting_Rooms.py) |
 | Two Sets II | Dynamic Programming | [ C++ ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Dynamic_Programming/Two_Sets_II/Two_Sets_II.cpp) |
