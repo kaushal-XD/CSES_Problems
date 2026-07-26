@@ -6,6 +6,7 @@
 
 | Problem | Category | Solutions |
 | :--- | :--- | :--- |
+| Building Teams | Graph Algorithms | [ C++ ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Graph_Algorithms/Building_Teams/Building_Teams.cpp) |
 | Message Route | Graph Algorithms | [ C++ ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Graph_Algorithms/Message_Route/Message_Route.cpp) |
 | Labyrinth | Graph Algorithms | [ C++ ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Graph_Algorithms/Labyrinth/Labyrinth.cpp) |
 | Building Roads | Graph Algorithms | [ C++ ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Graph_Algorithms/Building_Roads/Building_Roads.cpp) |
