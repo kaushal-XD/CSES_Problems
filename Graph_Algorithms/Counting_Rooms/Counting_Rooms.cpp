@@ -55,7 +55,7 @@ int main(){
     cin>>n>>m;
     vector<string> grid(n);
     for(int i = 0 ; i < n ; i++){
-        cin>>grid[0];
+        cin>>grid[i];
     }
  
     solve(n,m,grid);
