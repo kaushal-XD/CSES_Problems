@@ -30,7 +30,7 @@ int main(){
     adj.resize(n+1);
     visited.assign(n+1,false);
  
-    for(int i = 0 ; i < n ; i++){
+    for(int i = 0 ; i < m ; i++){
         int a,b;
         cin>>a>>b;
         adj[a].push_back(b);
