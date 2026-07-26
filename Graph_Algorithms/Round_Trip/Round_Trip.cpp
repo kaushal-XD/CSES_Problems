@@ -62,12 +62,18 @@ int main(){
     }
  
     int curr = c_end;
-    cout<<start<<" ";
+    vector<int> ans;
+    ans.push_back(start);
     while(curr != start){
-        cout<<curr<<" ";
+        ans.push_back(curr);
         curr = parent[curr];
     }
-    cout<<start<<"\n";
+    ans.push_back(start);
+ 
+    cout<<ans.size()<<endl;
+    for(int i : ans){
+        cout<<i<<" ";
+    }
  
     return 0;
 }
