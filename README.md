@@ -6,6 +6,7 @@
 
 | Problem | Category | Solutions |
 | :--- | :--- | :--- |
+| Counting Rooms | Graph Algorithms | [ C++ ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Graph_Algorithms/Counting_Rooms/Counting_Rooms.cpp) |
 | Two Sets II | Dynamic Programming | [ C++ ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Dynamic_Programming/Two_Sets_II/Two_Sets_II.cpp) |
 | Removal Game | Dynamic Programming | [ C++ ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Dynamic_Programming/Removal_Game/Removal_Game.cpp) |
 | Money Sums | Dynamic Programming | [ C++ ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Dynamic_Programming/Money_Sums/Money_Sums.cpp) • [ Python ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Dynamic_Programming/Money_Sums/Money_Sums.py) |
