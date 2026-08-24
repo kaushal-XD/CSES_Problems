@@ -8,27 +8,23 @@
 #include <bits/stdc++.h>
 using namespace std;
  
-int rec(int n, vector<int>& dp){
-    if (n == 0) return 0;
-    if (n < 0) return 1e9;
-    if (dp[n] != -1) return dp[n];
-    int temp = n;
-    int ans = 1e9;
-    while(temp){
-        int r = temp % 10;
-        temp /= 10;
-        if (r != 0) ans = min(ans,rec(n-r ,dp)+1);
+int main (){
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    int n, num;
+    cin >> n ;
+    vector<int> dp(n+1,INT_MAX);
+    dp[0] = 0;
+    for(int i = 1; i <n+1 ; i++ ){
+        num = i;
+        while(num>0){
+            int d = num%10;
+            if (d){
+                dp[i] = min(dp[i],dp[i-d]+1);
+            }
+            num = num/10;
+        }
     }
-    dp[n] = ans;
-    return ans;
-}
- 
- 
-int main() {
-    int n; 
-    cin>>n;
-    vector<int> dp(n+1,-1);
-	cout<<rec(n,dp);
-	return 0;
- 
+    cout<<dp[n]<<"\n";
+    return 0;
 }
