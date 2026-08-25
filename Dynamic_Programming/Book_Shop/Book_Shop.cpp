@@ -2,7 +2,7 @@
  * Problem Name: Book_Shop
  * Language: C++
  * Category: Dynamic_Programming
- * Date: 2026-08-24
+ * Date: 2026-08-25
  */
 
 #include <bits/stdc++.h>
