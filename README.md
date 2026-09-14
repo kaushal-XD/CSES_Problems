@@ -6,6 +6,7 @@
 
 | Problem | Category | Solutions |
 | :--- | :--- | :--- |
+| Counting Divisors | Mathematics | [ C++ ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Mathematics/Counting_Divisors/Counting_Divisors.cpp) |
 | Round Trip | Graph Algorithms | [ C++ ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Graph_Algorithms/Round_Trip/Round_Trip.cpp) |
 | Building Teams | Graph Algorithms | [ C++ ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Graph_Algorithms/Building_Teams/Building_Teams.cpp) |
 | Message Route | Graph Algorithms | [ C++ ](https://github.com/kaushal-XD/CSES_Problems/blob/main/Graph_Algorithms/Message_Route/Message_Route.cpp) |
